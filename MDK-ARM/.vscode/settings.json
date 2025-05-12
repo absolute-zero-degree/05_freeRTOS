@@ -1,0 +1,24 @@
+{
+    "files.associations": {
+        "freertos.h": "c",
+        "cstdlib": "c",
+        "driver_led.h": "c",
+        "bit": "c",
+        "compare": "c",
+        "limits": "c",
+        "new": "c",
+        "driver_timer.h": "c",
+        "cmsis_os.h": "c",
+        "driver_lcd.h": "c",
+        "driver_passive_buzzer.h": "c",
+        "driver_color_led.h": "c",
+        "gpio.h": "c",
+        "task.h": "c",
+        "main.h": "c",
+        "driver_mpu6050.h": "c",
+        "stm32f1xx_hal.h": "c",
+        "tim.h": "c"
+    },
+    "python.languageServer": "None",
+    "openmv.languageServer": "Pyright"
+}
